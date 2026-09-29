@@ -11,3 +11,6 @@ Classes included:
 - Tailor
 
 The purpose of this homework is to understand classes, attributes and methods in OOP.
+---
+Created by **Pathan Zaid Khan Zafar Khan**
+**Batch : 1341**
